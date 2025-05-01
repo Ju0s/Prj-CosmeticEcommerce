@@ -1,0 +1,4 @@
+brand_group,cart_brands,purchase_brands,explicit_abandon_brands,implicit_abandon_brands,cart_to_purchase_rate,explicit_abandon_rate,implicit_abandon_rate
+low,2506,345,506,1637,13.77,20.19,65.32
+mid,94053,13647,18422,61464,14.51,19.59,65.35
+high,2539622,316982,488055,1712997,12.48,19.22,67.45

@@ -1,0 +1,6 @@
+price_group,cart_products,purchase_products,explicit_abandon_products,implicit_abandon_products,cart_to_purchase_rate,explicit_abandon_rate,implicit_abandon_rate
+"very low",750795,101243,118214,526310,13.48,15.75,70.10
+low,1055109,122817,219616,702893,11.64,20.81,66.62
+mid,372370,45526,75303,248183,12.23,20.22,66.65
+high,193174,24273,41212,126141,12.57,21.33,65.30
+premium,264745,36802,52621,172909,13.90,19.88,65.31

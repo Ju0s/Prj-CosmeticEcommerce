@@ -1,0 +1,4 @@
+price_group,cart_sessions,purchase_sessions,explicit_abandon_sessions,implicit_abandon_sessions,cart_to_purchase_rate,explicit_abandon_rate,implicit_abandon_rate,total_abandon_rate
+low,356224,49871,50838,253146,14.00,14.27,71.06,85.34
+mid,1808790,218032,359422,1215646,12.05,19.87,67.21,87.08
+high,471179,62758,96706,307644,13.32,20.52,65.29,85.82

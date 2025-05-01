@@ -1,0 +1,4 @@
+month,cart_sessions,purchase_sessions,explicit_removal_sessions,implicit_abandon_sessions,cart_to_purchase_rate,explicit_abandon_rate,implicit_abandon_rate,total_abandon_rate
+2019-12,162464,22819,37255,89496,14.05,22.93,55.09,78.02
+2020-01,191470,25063,44839,105640,13.09,23.42,55.17,78.59
+2020-02,185478,22786,44096,103238,12.29,23.77,55.66,79.43
